@@ -136,7 +136,7 @@ The broader product vision was to create a social competition layer for sports b
 
 ## Demo Video
 
-A demo video is included below to show the WYNZ platform in action.
+A demo video .mp4 has been attached to this repository, showing the WYNZ platform in action. 
 
 The demo walks through the main product experience, including live sports data, matchup analysis, historical results, odds-related insights, social features, and the challenge system. It demonstrates how users can move from viewing live games to analyzing historical data and participating in prediction-based competitions.
 ---
